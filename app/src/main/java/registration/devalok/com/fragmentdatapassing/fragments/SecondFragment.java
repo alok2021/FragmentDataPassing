@@ -19,7 +19,7 @@ import registration.devalok.com.fragmentdatapassing.activity.MainActivity;
  */
 public class SecondFragment extends Fragment implements FirstFragment.OnSendDataListener {
 private TextView id_tv_receivedData;
-    OnSendDataListener callBack;
+   // OnSendDataListener callBack;
 private static final String TAG = "SecondFragment";
     public SecondFragment() {
         // Required empty public constructor
